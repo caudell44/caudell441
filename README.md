@@ -58,7 +58,10 @@
 │   ├── schematic.png         # Скріншот принципової схеми
 │   ├── pcb_layout.png        # Скріншот PCB Layout
 │   └── 3d_view.png           # Скріншот 3D-вигляду плати
-├── Practica.PrjPcb           # Файл проєкту Altium Designer
-├── Sheet1.SchDoc             # Файл принципової схеми
-├── PCB1.PcbDoc               # Файл друкованої плати
+├── Practica/                 # Папка з файлами проєкту Altium Designer
+│   ├── Practica.PrjPcb       # Файл проєкту Altium Designer
+│   ├── Sheet1.SchDoc         # Файл принципової схеми
+│   └── PCB1.PcbDoc           # Файл друкованої плати
+├── .gitignore                # Файл для ігнорування певних файлів та папок Git-ом
+├── mydoc.txt                 # Тестовий документ (завдання з освоєння GitHub)
 └── README.md                 # Цей файл
